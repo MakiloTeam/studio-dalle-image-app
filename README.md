@@ -8,7 +8,7 @@ Node.js v14 or higher.
 
 An OpenAI API key https://platform.openai.com/account/api-keys
 
-## Installation
+## Getting started
 
 Clone this repository.
 
@@ -19,9 +19,7 @@ Copy `.env.example` to `.env` and set your OpenAI API key:
 OPENAI_API_KEY=your_api_key_here
 ```
 
-## Usage
-
-First, run the development server:
+Run the development server:
 
 ```bash
 npm run dev
